@@ -4,6 +4,7 @@
 <img src="assets/svg/logo_flutter_horizontal.svg" width=500 style="align=center" >
 <br>
 <br>
+
 Repository used to study clean Architecture more precisely [Clean Dart](https://github.com/Flutterando/Clean-Dart) a Clean Architecture proposal for Dart/Flutter.
 
 <br>
